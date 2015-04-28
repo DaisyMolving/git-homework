@@ -1,7 +1,11 @@
 How do you create a new git repository locally?
+with the command "git init"
 
 How would you find out what files are currently staged?
+with the command "git status"
 
 How would you add a file to the staging area?
+with the command "git add <file-name>"
 
 How would you commit your changes with the message "Adding git-test questions" ?
+with the command "git commit -m "Adding git-test questions""
